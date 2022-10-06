@@ -4,8 +4,8 @@ import java.text.DecimalFormat;
 public class Main {
     public static void main(String[] args) {
 //definitions
-        float totCost =0;
-        float cost =0;
+        float totCost = 0;
+        float cost = 0;
         int people;
         float percent;
 
